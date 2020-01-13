@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">СontactList</string>
+    <string name="contacts">Контакты</string>
+    <string name="birthdate">Дата рождения:</string>
+    <string name="position">Должность:</string>
+    <string name="office_phone">Рабочий телефон:</string>
+    <string name="delete">Удалить</string>
+    <string name="update">Изменить</string>
+    <string name="add_phone_contact">Добавить телефонную книгу</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="patronymic">Отчество</string>
+    <string name="phone">Номер телефона</string>
+    <string name="birthdate_">Дата рождения</string>
+    <string name="position_">Должность</string>
+    <string name="office_phone_">Рабочий телефон</string>
+    <string name="save">Сохранить</string>
+    <string name="friends">Друзья</string>
+    <string name="colleagues">Коллеги</string>
+    <string name="update_contact">Изменить контакт</string>
+    <string name="add_contact">Создать контакт</string>
+    <string name="select_operation">Выберите операцию:</string>
+
+</resources>

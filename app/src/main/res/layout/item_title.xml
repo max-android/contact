@@ -1,0 +1,26 @@
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/titleItemCardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:backgroundTint="@android:color/white"
+    android:elevation="4dp"
+    app:cardCornerRadius="16dp"
+    app:strokeColor="@color/colorAccent"
+    app:strokeWidth="2dp">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/titleItemTextView"
+        android:textSize="21sp"
+        android:textColor="@color/colorAccent"
+        android:fontFamily="@font/roboto_bold"
+        tools:text="Друзья"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </androidx.appcompat.widget.AppCompatTextView>
+</com.google.android.material.card.MaterialCardView>

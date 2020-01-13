@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrays0">
+        <item>Друзья</item>
+        <item>Коллеги</item>
+    </string-array>
+
+    <string-array name="arrays1">
+        <item>Коллеги</item>
+        <item>Друзья</item>
+    </string-array>
+</resources>
